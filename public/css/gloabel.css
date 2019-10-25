@@ -1,0 +1,7 @@
+.van-tabsqd .van-tabs__nav--card {
+    box-sizing: border-box;
+    height: 30px;
+    margin: 0 16px;
+    border-radius: 12px!important;
+    overflow: hidden!important;
+}

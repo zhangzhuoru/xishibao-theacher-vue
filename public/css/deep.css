@@ -1,0 +1,8 @@
+.van-notify {
+    box-sizing: border-box;
+    padding: 13px 16px!important;
+    font-size: 5vw;
+    line-height: 20px;
+    white-space: pre-wrap;
+    text-align: center;
+}
